@@ -1,6 +1,7 @@
 public class Burger {
 
     private String sos;
+    /*comentariu*/
 
     private String carne;
 
