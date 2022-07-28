@@ -10,7 +10,7 @@ public class Main {
 
         System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"altceva");
 
-        System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"hai");
+        System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"hai1");
 
 
         /**/
