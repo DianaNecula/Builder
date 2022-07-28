@@ -8,7 +8,7 @@ public class Main {
 
         Pizza pizza=pizzaBuilder.getResult();
 
-        System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"altceva");
+        System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"altceva1");
 
         System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"hai1");
 
