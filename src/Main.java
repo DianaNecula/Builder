@@ -8,8 +8,12 @@ public class Main {
 
         Pizza pizza=pizzaBuilder.getResult();
 
+
         System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos());
 
+        System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"altceva1");
+
+        
 
         /**/
         director.constructSweetChickenFoodWithCorn(pizzaBuilder);
