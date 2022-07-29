@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"altceva1");
 
+        System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos());
+
         System.out.println("pizza cu carne "+pizza.getCarne()+" sos: "+pizza.getSos()+"hai1");
 
 
